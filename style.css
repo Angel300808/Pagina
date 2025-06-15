@@ -13,7 +13,7 @@ body {
 
 header {
   background-color: #fffebe;
-  color: white;
+  color: rgb(0, 0, 0);
   padding: 2em;
   text-align: center;
 }
@@ -91,7 +91,7 @@ header p {
 
 footer {
   background-color: #fffebe;
-  color: white;
+  color: rgb(0, 0, 0);
   text-align: center;
   padding: 1.5em;
 }
