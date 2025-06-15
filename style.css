@@ -89,6 +89,14 @@ header p {
   color: #1e1e1e;
 }
 
+.caja img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 1em;
+}
+
 footer {
   background-color: #fffebe;
   color: rgb(0, 0, 0);
