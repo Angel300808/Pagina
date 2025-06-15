@@ -12,8 +12,8 @@ body {
 }
 
 header {
-  background-color: #fffebe;
-  color: rgb(0, 0, 0);
+  background-color: #1b182e;
+  color: rgb(255, 255, 255);
   padding: 2em;
   text-align: center;
 }
@@ -55,7 +55,7 @@ header p {
 }
 
 .sidebar a:hover {
-  color: #4CAF50;
+  color: #9395ff;
 }
 
 .contenido {
@@ -98,8 +98,8 @@ header p {
 }
 
 footer {
-  background-color: #fffebe;
-  color: rgb(0, 0, 0);
+  background-color: #1b182e;
+  color: rgb(255, 255, 255);
   text-align: center;
   padding: 1.5em;
 }
