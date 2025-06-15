@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #1e1e1e;
+  background-color: #fffebe;
   color: white;
   padding: 2em;
   text-align: center;
@@ -90,7 +90,7 @@ header p {
 }
 
 footer {
-  background-color: #1e1e1e;
+  background-color: #fffebe;
   color: white;
   text-align: center;
   padding: 1.5em;
